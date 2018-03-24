@@ -1,0 +1,10 @@
+To predict possible performance on any one day : regularised regression on all previous workouts - since
+we expect the each individual workout to have a small effect on overall fitness. Include time as a variable and 
+include interactions with time for all other variables.
+
+Do PCA on data frame with outcomes.
+
+Do biplots with data frame with session info.
+
+Put plots of bikes rides in report.
+

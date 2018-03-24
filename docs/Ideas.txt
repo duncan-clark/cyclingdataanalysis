@@ -1,0 +1,49 @@
+Ideas:
+
+###Multiple Racers###
+
+PCA at every time point to see when things change? (with multiple racers)
+Make biplots?
+
+###Singular Racers###
+
+Main problem is my data is time dependent - we haven't done this in class - i.e. observations that are not independent.
+
+Make some sort of summary measure of training rides then use these measures
+as the covariates for different observations (Average HR power cadence speed, TSS, Normalised Power)
+
+Factor analysis based on these summary measures, relate this to underlying "fitness" - unmeasurable
+
+Note model widespread use  Form =  fitness(CTL -weighted 60 days TSS) - Fatigue(ATL - weighted 7 days TSS)
+can we do better than this?
+
+normalised power = (mean(power^4))^(1/4)
+
+Can I classify rides as intervals, lone rides,group rides, races ?
+
+######Potential question to ask - Can I use factor analysis/ PCA to come up with a better measure than TSS that is not physiologically motivated.#####
+###### And can this be used to predict perfomance in races better than the standard - Form = fitness  - fatigue#######?
+
+Journal for science an cycling
+
+
+
+
+
+###Long Term Goals### Requiring more data
+
+#Races
+With data from all riders on one team in a large race, can we predict:
+- which breakaways will stick,
+- which breakaways will win,
+- what team can do to win sprint in final kms,
+
+#Training
+With one riders training data, or training data from whole team can we predict:
+- what training might produce good performances from team,
+- what training might produce good performances from individuals
+- can we do better at predicting form than standard models.
+
+
+
+ 
